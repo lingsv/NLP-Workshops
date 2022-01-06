@@ -5,4 +5,4 @@
 Este repositório armazena arquivos de exercícios de Processamento de Linguagem Natural dos eventos:
 
 - Workshop For Her
-- Sprint Programaria - IA para Devs
+
