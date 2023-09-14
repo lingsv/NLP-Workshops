@@ -6,3 +6,4 @@ Este repositório armazena arquivos de exercícios de Processamento de Linguagem
 
 - Workshop For Her
 
+---
